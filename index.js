@@ -16,5 +16,5 @@ function shout(string) {
   }
   
 if (string.toUpperCase() === string) {
-    return "YES INDEED!"
+    console.log(YES INDEED!)
   }
